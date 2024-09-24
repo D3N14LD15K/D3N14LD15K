@@ -13,7 +13,7 @@ I'm a cybersecurity engineer focused on bug bounties and vulnerability disclosur
   - New techniques in web application security
   - Cloud security and best practices
 
-- 💞️ I’m looking to collaborate on:
+- 🙋🏽‍♂️ I’m looking to collaborate on:
   - Research on emerging vulnerabilities
   - Pentesting for VDP
   - Tools that improve bug bounty processes
