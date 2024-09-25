@@ -21,7 +21,7 @@ I'm a cybersecurity engineer focused on bug bounties and vulnerability disclosur
 - 📫 How to reach me:
   - Email: [d3n14ld15k@bugcrowdninja.com](mailto:d3n14ld15k@bugcrowdninja.com)
 
-- ⚡ Fun fact: I have a dog named Wako and he do bug bounty with me all nights!
+- ⚡ Fun fact: I have a dog named Wako and he does bug bounties with me all nights!
 
 
 <!---
