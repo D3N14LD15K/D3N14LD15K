@@ -14,7 +14,7 @@ Cybersecurity engineer focused on bug bounties and vulnerability disclosure, spe
  - Tools that enhance the bug bounty process
 
 ### • Contact:
-  - [d3n14ld15k@bugcrowdninja.com](mailto:d3n14ld15k@bugcrowdninja.com)
+  - [d3n14ld15k@wearehackerone.com](mailto:d3n14ld15k@wearehackerone.com)
 
 <!---
 D3N14LD15K/D3N14LD15K is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
