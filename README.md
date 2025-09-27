@@ -13,6 +13,10 @@ Cybersecurity engineer focused on bug bounties and vulnerability disclosure, spe
  - Penetration testing within VDP environments
  - Tools that enhance the bug bounty process
 
+### • Take a look to my write-ups:
+ - [Exposing Sensitive Data on NASA Endpoint. S3 Bucket, API Key, and Config Leak](https://medium.com/legionhunters/exposing-sensitive-data-on-nasa-endpoint-s3-bucket-api-key-and-config-leak-b441f7f95893)
+
+   
 ### • Contact:
   - [d3n14ld15k@wearehackerone.com](mailto:d3n14ld15k@wearehackerone.com)
 
