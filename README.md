@@ -15,6 +15,7 @@ Cybersecurity engineer focused on bug bounties and vulnerability disclosure, spe
 
 ### • Take a look to my write-ups:
  - [Exposing Sensitive Data on NASA Endpoint. S3 Bucket, API Key, and Config Leak](https://medium.com/legionhunters/exposing-sensitive-data-on-nasa-endpoint-s3-bucket-api-key-and-config-leak-b441f7f95893)
+ - [Hacking the Department of Homeland Security (Legally). This is my story](https://medium.com/legionhunters/hacking-the-department-of-homeland-security-legally-this-is-my-story-3c16ef02347f)
 
    
 ### • Contact:
