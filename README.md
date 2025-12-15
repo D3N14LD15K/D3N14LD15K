@@ -19,7 +19,7 @@ Cybersecurity engineer focused on bug bounties and vulnerability disclosure, spe
 
    
 ### • Contact:
-  - [d3n14ld15k@wearehackerone.com](mailto:d3n14ld15k@wearehackerone.com)
+  - [denialdisk_@wearehackerone.com](mailto:denialdisk_@wearehackerone.com)
 
 <!---
 D3N14LD15K/D3N14LD15K is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
