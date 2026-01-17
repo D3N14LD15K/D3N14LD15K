@@ -1,17 +1,17 @@
 # @D3N14LD15K
 
 ## Profile
-Cybersecurity engineer focused on bug bounties and vulnerability disclosure, specializing in identifying security flaws and developing custom tools.
+Cybersecurity engineer focused on responsive disclosure, specializing in identifying security flaws and developing custom tools.
 
 ### • Currently working on:
  - Security research and vulnerability discovery
- - Participation in Bug Bounty Programs and Vulnerability Disclosure Programs (VDPs)
+ - Participation in Vulnerability Disclosure Programs (VDPs)
  - Development of custom tools for reconnaissance and exploitation
 
 ### • Looking to collaborate on:
  - Research into emerging vulnerabilities
  - Penetration testing within VDP environments
- - Tools that enhance the bug bounty process
+ - Tools that enhance the hacking process
 
 ### • Take a look to my write-ups:
  - [Exposing Sensitive Data on NASA Endpoint. S3 Bucket, API Key, and Config Leak](https://medium.com/legionhunters/exposing-sensitive-data-on-nasa-endpoint-s3-bucket-api-key-and-config-leak-b441f7f95893)
