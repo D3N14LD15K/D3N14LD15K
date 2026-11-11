@@ -14,7 +14,7 @@ Cybersecurity engineer. White hat ethics, black hat soul.
 
    
 ### • Contact:
-  - [denialdisk_@wearehackerone.com](mailto:denialdisk_@wearehackerone.com)
+  - [denialdisk@proton.me](mailto:denialdisk@proton.me)
 
 <!---
 D3N14LD15K/D3N14LD15K is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
